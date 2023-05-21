@@ -1,0 +1,24 @@
+.btn{
+    width: 55px;
+    height: 55px;
+    color: white;
+    margin: 1px;
+}
+.cuerpo{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 20%;
+    margin: 15px 10px;
+    background-color: rgb(224, 226, 228);
+}
+.btn-numero{
+    background-color: rgba(26, 146, 220, 0.598);
+}
+.btn-symbol{
+    background-color: rgba(26, 26, 188, 0.598);
+}
+.resultado{
+    margin-bottom: 10px;
+    border-color: black;
+}
